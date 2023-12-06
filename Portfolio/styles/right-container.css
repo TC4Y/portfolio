@@ -1,0 +1,52 @@
+.main-title-container{
+    background-color: #fecb01;
+    margin-top: 3%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    padding-left: 50px;
+}
+.main-title-name{
+    font-size: xx-large;
+    margin-bottom: 0;
+    line-height: 0;
+    font-weight: bold;
+}
+
+.main-title-surname{
+    font-weight: normal;
+}
+
+.main-title-designation{
+    font-size: larger;
+}
+
+.right-container-divider{
+    width: 90%;
+}
+
+.right-container-heading-title{
+    margin-left: 10%;
+}
+
+.right-container-heading-content{
+    font-size: small;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.right-container-experience-content{
+    display: flex;
+    text-align: left;
+    margin-left: 60px;
+}
+
+.right-container-experience-content-year{
+    flex: 1;
+    
+}
+
+.right-container-experience-content-description{
+    flex: 2;
+}

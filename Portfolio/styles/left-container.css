@@ -1,0 +1,32 @@
+.left-container{
+    color: white;
+}
+.heading-text{
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20%;
+    margin-bottom: 0px;
+}
+.left-container-divider{
+    width: 80%;
+}
+.heading-content{
+    font-size: small;
+    text-align: left;
+    margin-left: 25%;
+    line-height: 10%;
+    margin-bottom: 5%;
+}
+
+.heading-title{
+    font-weight: bold;
+}
+
+.image-container{
+    text-align: center;
+}
+.profile-image{
+    padding-top: 10px;
+    width: 200px;
+    border-radius: 50%;
+}
